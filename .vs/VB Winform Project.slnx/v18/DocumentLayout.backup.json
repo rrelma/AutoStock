@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\Projects\\After School\\new version vb dot net\\VB Winform Project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{072D73BD-05B9-BFB2-096B-3A2358F074C9}|VB Winform Project.vbproj|d:\\projects\\after school\\new version vb dot net\\vb winform project\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{072D73BD-05B9-BFB2-096B-3A2358F074C9}|VB Winform Project.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072D73BD-05B9-BFB2-096B-3A2358F074C9}|VB Winform Project.vbproj|d:\\projects\\after school\\new version vb dot net\\vb winform project\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{072D73BD-05B9-BFB2-096B-3A2358F074C9}|VB Winform Project.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072D73BD-05B9-BFB2-096B-3A2358F074C9}|VB Winform Project.vbproj|d:\\projects\\after school\\new version vb dot net\\vb winform project\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{072D73BD-05B9-BFB2-096B-3A2358F074C9}|VB Winform Project.vbproj|solutionrelative:form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{072D73BD-05B9-BFB2-096B-3A2358F074C9}|VB Winform Project.vbproj|d:\\projects\\after school\\new version vb dot net\\vb winform project\\loginform.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{072D73BD-05B9-BFB2-096B-3A2358F074C9}|VB Winform Project.vbproj|solutionrelative:loginform.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
@@ -11,20 +23,8 @@
       "RelativeMoniker": "D:0:0:{072D73BD-05B9-BFB2-096B-3A2358F074C9}|VB Winform Project.vbproj|solutionrelative:loginform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{072D73BD-05B9-BFB2-096B-3A2358F074C9}|VB Winform Project.vbproj|d:\\projects\\after school\\new version vb dot net\\vb winform project\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{072D73BD-05B9-BFB2-096B-3A2358F074C9}|VB Winform Project.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{072D73BD-05B9-BFB2-096B-3A2358F074C9}|VB Winform Project.vbproj|d:\\projects\\after school\\new version vb dot net\\vb winform project\\sweetalert.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{072D73BD-05B9-BFB2-096B-3A2358F074C9}|VB Winform Project.vbproj|solutionrelative:sweetalert.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{072D73BD-05B9-BFB2-096B-3A2358F074C9}|VB Winform Project.vbproj|d:\\projects\\after school\\new version vb dot net\\vb winform project\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{072D73BD-05B9-BFB2-096B-3A2358F074C9}|VB Winform Project.vbproj|solutionrelative:form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{072D73BD-05B9-BFB2-096B-3A2358F074C9}|VB Winform Project.vbproj|d:\\projects\\after school\\new version vb dot net\\vb winform project\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{072D73BD-05B9-BFB2-096B-3A2358F074C9}|VB Winform Project.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{072D73BD-05B9-BFB2-096B-3A2358F074C9}|VB Winform Project.vbproj|d:\\projects\\after school\\new version vb dot net\\vb winform project\\dataaccess\\productrepository.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -65,8 +65,12 @@
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "SweetAlert.vb",
               "DocumentMoniker": "D:\\Projects\\After School\\new version vb dot net\\VB Winform Project\\SweetAlert.vb",
               "RelativeDocumentMoniker": "SweetAlert.vb",
@@ -74,12 +78,11 @@
               "RelativeToolTip": "SweetAlert.vb",
               "ViewState": "AgIAAJgAAAAAAAAAAAAcwK0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-10-19T17:53:50.952Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-19T17:53:50.952Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "LoginForm.Designer.vb",
               "DocumentMoniker": "D:\\Projects\\After School\\new version vb dot net\\VB Winform Project\\LoginForm.Designer.vb",
               "RelativeDocumentMoniker": "LoginForm.Designer.vb",
@@ -92,7 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Form1.vb [Conception]",
               "DocumentMoniker": "D:\\Projects\\After School\\new version vb dot net\\VB Winform Project\\Form1.vb",
               "RelativeDocumentMoniker": "Form1.vb",
@@ -104,33 +107,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Form1.vb",
               "DocumentMoniker": "D:\\Projects\\After School\\new version vb dot net\\VB Winform Project\\Form1.vb",
               "RelativeDocumentMoniker": "Form1.vb",
               "ToolTip": "D:\\Projects\\After School\\new version vb dot net\\VB Winform Project\\Form1.vb",
               "RelativeToolTip": "Form1.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAowEIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2026-10-17T23:38:41.359Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Form1.Designer.vb",
               "DocumentMoniker": "D:\\Projects\\After School\\new version vb dot net\\VB Winform Project\\Form1.Designer.vb",
               "RelativeDocumentMoniker": "Form1.Designer.vb",
               "ToolTip": "D:\\Projects\\After School\\new version vb dot net\\VB Winform Project\\Form1.Designer.vb",
               "RelativeToolTip": "Form1.Designer.vb",
-              "ViewState": "AgIAABYBAAAAAAAAAAAQwDABAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2026-10-17T23:38:29.29Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "LoginForm.vb",
               "DocumentMoniker": "D:\\Projects\\After School\\new version vb dot net\\VB Winform Project\\LoginForm.vb",
               "RelativeDocumentMoniker": "LoginForm.vb",
@@ -138,8 +141,7 @@
               "RelativeToolTip": "LoginForm.vb",
               "ViewState": "AgIAAF8AAAAAAAAAAAAUwHMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-10-18T23:52:44.781Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-18T23:52:44.781Z"
             },
             {
               "$type": "Document",
@@ -151,8 +153,7 @@
               "RelativeToolTip": "DataAccess\\ProductRepository.vb",
               "ViewState": "AgIAAHAAAAAAAAAAAAAAwIkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-10-18T23:20:40.325Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-18T23:20:40.325Z"
             },
             {
               "$type": "Document",
@@ -164,8 +165,7 @@
               "RelativeToolTip": "DataAccess\\UserRepository.vb",
               "ViewState": "AgIAAAwAAAAAAAAAAAAQwCYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-10-18T23:57:27.292Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-18T23:57:27.292Z"
             },
             {
               "$type": "Document",

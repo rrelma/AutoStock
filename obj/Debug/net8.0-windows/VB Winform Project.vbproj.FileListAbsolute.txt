@@ -128,3 +128,4 @@ D:\Projects\After School\new version vb dot net\VB Winform Project\bin\Debug\net
 D:\Projects\After School\new version vb dot net\VB Winform Project\obj\Debug\net8.0-windows\VB Winfo.E8190E55.Up2Date
 D:\Projects\After School\new version vb dot net\VB Winform Project\obj\Debug\net8.0-windows\VB Winform Project.genruntimeconfig.cache
 D:\Projects\After School\new version vb dot net\VB Winform Project\obj\Debug\net8.0-windows\ref\VB Winform Project.dll
+D:\Projects\After School\new version vb dot net\VB Winform Project\obj\Debug\net8.0-windows\VB Winform Project.sourcelink.json

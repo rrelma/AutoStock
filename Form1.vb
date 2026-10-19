@@ -52,17 +52,17 @@ Public Class Form1
             dgvProduits.ClearSelection()
 
             AfficherMessage(
-                produits.Count.ToString() & " product(s) loaded.",
+                produits.Count.ToString() & " spare parts loaded successfully.",
                 True
             )
 
         Catch ex As Exception
             SweetAlert.ErrorMessage(
-                "Unable to load products." &
+                "Unable to load spare parts." &
                 Environment.NewLine & ex.Message,
                 "Database error"
             )
-            AfficherMessage("Unable to load products.", False)
+            AfficherMessage("Unable to load spare parts.", False)
         End Try
 
     End Sub

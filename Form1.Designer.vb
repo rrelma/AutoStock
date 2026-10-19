@@ -79,14 +79,14 @@ Partial Class Form1
         Me.StartPosition = FormStartPosition.CenterScreen
         Me.BackColor = Color.FromArgb(245, 247, 251)
         Me.Font = New Font("Segoe UI", 9.0!)
-        Me.Text = "Product Management"
+        Me.Text = "Spare Parts Management"
 
         ' Header
         Me.headerPanel.Dock = DockStyle.Top
         Me.headerPanel.Height = 105
         Me.headerPanel.BackColor = Color.FromArgb(24, 42, 75)
 
-        Me.titreLabel.Text = "Product Management"
+        Me.titreLabel.Text = "Spare Parts Management"
         Me.titreLabel.Font = New Font(
             "Segoe UI", 25.0!, FontStyle.Bold)
         Me.titreLabel.ForeColor = Color.White
@@ -102,18 +102,18 @@ Partial Class Form1
             AnchorStyles.Top Or AnchorStyles.Left Or AnchorStyles.Right
         Me.editorPanel.BackColor = Color.White
 
-        Me.sectionLabel.Text = "Add or edit a product"
+        Me.sectionLabel.Text = "Add or Edit Spare Part"
         Me.sectionLabel.Font = New Font(
             "Segoe UI", 14.0!, FontStyle.Bold)
         Me.sectionLabel.ForeColor = Color.FromArgb(31, 41, 55)
         Me.sectionLabel.AutoSize = True
         Me.sectionLabel.Location = New Point(25, 18)
 
-        Me.produit_label.Text = "Product name"
+        Me.produit_label.Text = "Part Description"
         Me.produit_label.Location = New Point(25, 60)
         Me.produit_label.AutoSize = True
 
-        Me.prixLabel.Text = "Price (DH)"
+        Me.prixLabel.Text = "Unit Cost (MAD)"
         Me.prixLabel.Location = New Point(440, 60)
         Me.prixLabel.AutoSize = True
 
@@ -135,7 +135,7 @@ Partial Class Form1
         Me.txtQuantite.Font = New Font("Segoe UI", 10.0!)
 
         ' Add button
-        Me.btnAjouter.Text = "Add product"
+        Me.btnAjouter.Text = "Add Spare Part"
         Me.btnAjouter.Location = New Point(25, 145)
         Me.btnAjouter.Size = New Size(150, 42)
         Me.btnAjouter.BackColor = Color.FromArgb(34, 139, 94)
@@ -145,7 +145,7 @@ Partial Class Form1
         Me.btnAjouter.Cursor = Cursors.Hand
 
         ' Modify button
-        Me.btnModifier.Text = "Update"
+        Me.btnModifier.Text = "Update Part"
         Me.btnModifier.Location = New Point(190, 145)
         Me.btnModifier.Size = New Size(135, 42)
         Me.btnModifier.BackColor = Color.FromArgb(55, 110, 220)
@@ -155,7 +155,7 @@ Partial Class Form1
         Me.btnModifier.Cursor = Cursors.Hand
 
         ' Delete button
-        Me.btnSupprimer.Text = "Delete"
+        Me.btnSupprimer.Text = "Delete Part"
         Me.btnSupprimer.Location = New Point(340, 145)
         Me.btnSupprimer.Size = New Size(135, 42)
         Me.btnSupprimer.BackColor = Color.FromArgb(220, 53, 69)
@@ -165,7 +165,7 @@ Partial Class Form1
         Me.btnSupprimer.Cursor = Cursors.Hand
 
         ' Reset button
-        Me.btnReinitialiser.Text = "Reset"
+        Me.btnReinitialiser.Text = "Reset Fields"
         Me.btnReinitialiser.Location = New Point(490, 145)
         Me.btnReinitialiser.Size = New Size(135, 42)
         Me.btnReinitialiser.BackColor = Color.FromArgb(107, 114, 128)
@@ -203,7 +203,7 @@ Partial Class Form1
             AnchorStyles.Left Or AnchorStyles.Right
         Me.tablePanel.BackColor = Color.White
 
-        Me.tableTitleLabel.Text = "Product list"
+        Me.tableTitleLabel.Text = "Spare Parts Inventory"
         Me.tableTitleLabel.Font = New Font(
             "Segoe UI", 14.0!, FontStyle.Bold)
         Me.tableTitleLabel.ForeColor = Color.FromArgb(31, 41, 55)
@@ -266,19 +266,19 @@ Partial Class Form1
 
         Dim colNom As New DataGridViewTextBoxColumn()
         colNom.Name = "colNom"
-        colNom.HeaderText = "Product name"
+        colNom.HeaderText = "Part Description"
         colNom.FillWeight = 200
         colNom.ReadOnly = True
 
         Dim colPrix As New DataGridViewTextBoxColumn()
         colPrix.Name = "colPrix"
-        colPrix.HeaderText = "Price (DH)"
+        colPrix.HeaderText = "Unit Cost (MAD)"
         colPrix.FillWeight = 100
         colPrix.ReadOnly = True
 
         Dim colQuantite As New DataGridViewTextBoxColumn()
         colQuantite.Name = "colQuantite"
-        colQuantite.HeaderText = "Quantity"
+        colQuantite.HeaderText = "Stock Level"
         colQuantite.FillWeight = 90
         colQuantite.ReadOnly = True
 
